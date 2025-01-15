@@ -1,0 +1,33 @@
+{
+  "name": "runpro",
+  "version": "1.0.0",
+  "main": "bin/cli.js",
+  "bin": {
+    "run-project": "bin/cli.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saanvi26/runpro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saanvi26/runpro/issues"
+  },
+  "homepage": "https://github.com/Saanvi26/runpro#readme",
+  "description": "A CLI tool for running project commands",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "project"
+  ]
+}
