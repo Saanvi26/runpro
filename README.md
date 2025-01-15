@@ -20,8 +20,8 @@ In the root folder of the project, create a config.json file. This file should d
 
 ### Start the Commands
 Run the following command to start the commands defined in the `config.json` file. This will open a new terminal tab for each command and run the respective command from the specified directory.
-
    runpro start <path-to-config.json>
+   
 ### Help Command
    runpro help
    

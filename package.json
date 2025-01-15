@@ -2,6 +2,7 @@
   "name": "runpro",
   "version": "1.0.0",
   "main": "bin/cli.js",
+  "type": "module",
   "bin": {
     "runpro": "bin/cli.js"
   },
