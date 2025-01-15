@@ -9,14 +9,14 @@ import chalk from "chalk";
 function showHelp() {
   console.log(`
 Usage:
-  run-project <command> <config-path>
+  runpro <command> <config-path>
 
 Commands:
   start    Run the commands defined in the config file.
   help     Show this help message.
 
 Example:
-  run-project start ./config/example.config.json
+  runpro start ./config/example.config.json
 `);
 }
 

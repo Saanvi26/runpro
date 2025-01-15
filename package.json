@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "bin/cli.js",
   "bin": {
-    "run-project": "bin/cli.js"
+    "runpro": "bin/cli.js"
   },
   "directories": {
     "lib": "lib"
